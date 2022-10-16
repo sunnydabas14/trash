@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sunnydabas14/logrus"
 )
 
 type Packages map[string]bool

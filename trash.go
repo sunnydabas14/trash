@@ -15,7 +15,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sunnydabas14/logrus"
 	"github.com/urfave/cli"
 
 	"github.com/Masterminds/glide/godep"
