@@ -15,7 +15,7 @@ Make sure you're using go1.6 or later version.
 ```
 github.com/sunnydabas14/trash
 
-github.com/sunnydabas14/logrus@v2.0.0                      v0.8.7    https://github.com/imikushin/logrus.git
+github.com/sirupsen/logrus                      v0.8.7    https://github.com/imikushin/logrus.git
 github.com/codegangsta/cli                      b5232bb
 github.com/cloudfoundry-incubator/candiedyaml   5a459c2
 ```
@@ -23,7 +23,7 @@ github.com/cloudfoundry-incubator/candiedyaml   5a459c2
 Or, in YML format:
 ```yaml
 import:
-- package: github.com/sunnydabas14/logrus@v2.0.0               # package name
+- package: github.com/sirupsen/logrus               # package name
   version: v0.8.7                                   # tag or commit
   repo:    https://github.com/imikushin/logrus.git  # (optional) git URL
 

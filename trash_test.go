@@ -6,7 +6,7 @@ import (
 	"go/token"
 	"testing"
 
-	"github.com/sunnydabas14/logrus@v2.0.0"
+	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 )
 

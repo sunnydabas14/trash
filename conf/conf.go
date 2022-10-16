@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/sunnydabas14/logrus@v2.0.0"
+	"github.com/sirupsen/logrus"
 	yaml "github.com/cloudfoundry-incubator/candiedyaml"
 )
 
